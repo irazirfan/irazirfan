@@ -8,4 +8,6 @@
 - 📫 How to reach me: https://www.linkedin.com/in/irazirfan
 - ⚡ Fun fact: I've succesfully setup a desktop with all the hardware & cables at my primary school and later setup my own at 5th grade after purchasing a new pc!
 
+![](https://programmeerplaats.nl/wp-content/uploads/2020/07/eat-sleep-code-repeat.gif)
+<!--
 ![](https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif)
