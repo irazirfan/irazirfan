@@ -31,3 +31,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=irazirfan&show_icons=true&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=irazirfan&layout=compact)
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=irazirfan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
